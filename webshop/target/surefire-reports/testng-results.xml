@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[successfully browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[successfully browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[successfully browser is launched]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35157" started-at="2022-08-03T12:11:04 IST" finished-at="2022-08-03T12:11:39 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="TC_tasks_001_Test.test()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="test" class="tasks.TC_tasks_001_Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="35157" started-at="2022-08-03T12:11:04 IST" finished-at="2022-08-03T12:11:39 IST">
+      <class name="tasks.TC_tasks_003_Test">
+        <test-method status="PASS" signature="browser_setup()[pri:0, instance:tasks.TC_tasks_003_Test@bf9759]" name="browser_setup" is-config="true" duration-ms="2844" started-at="2022-08-03T12:11:29 IST" finished-at="2022-08-03T12:11:32 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully browser is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browser_setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tasks.TC_tasks_003_Test@bf9759]" name="login" is-config="true" duration-ms="1" started-at="2022-08-03T12:11:32 IST" finished-at="2022-08-03T12:11:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tasks.TC_tasks_003_Test@bf9759]" name="test" duration-ms="6462" started-at="2022-08-03T12:11:32 IST" finished-at="2022-08-03T12:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:tasks.TC_tasks_003_Test@bf9759]" name="logout" is-config="true" duration-ms="0" started-at="2022-08-03T12:11:39 IST" finished-at="2022-08-03T12:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="browser_tear_down()[pri:0, instance:tasks.TC_tasks_003_Test@bf9759]" name="browser_tear_down" is-config="true" duration-ms="906" started-at="2022-08-03T12:11:39 IST" finished-at="2022-08-03T12:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_tear_down -->
+      </class> <!-- tasks.TC_tasks_003_Test -->
+      <class name="tasks.TC_tasks_001_Test">
+        <test-method status="PASS" signature="browser_setup()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="browser_setup" is-config="true" duration-ms="4518" started-at="2022-08-03T12:11:04 IST" finished-at="2022-08-03T12:11:09 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully browser is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browser_setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="login" is-config="true" duration-ms="0" started-at="2022-08-03T12:11:09 IST" finished-at="2022-08-03T12:11:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="test" duration-ms="6457" started-at="2022-08-03T12:11:09 IST" finished-at="2022-08-03T12:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="logout" is-config="true" duration-ms="1" started-at="2022-08-03T12:11:15 IST" finished-at="2022-08-03T12:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="browser_tear_down()[pri:0, instance:tasks.TC_tasks_001_Test@18067a5]" name="browser_tear_down" is-config="true" duration-ms="909" started-at="2022-08-03T12:11:15 IST" finished-at="2022-08-03T12:11:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_tear_down -->
+      </class> <!-- tasks.TC_tasks_001_Test -->
+      <class name="tasks.TC_tasks_002_Test">
+        <test-method status="PASS" signature="browser_setup()[pri:0, instance:tasks.TC_tasks_002_Test@ecd4b]" name="browser_setup" is-config="true" duration-ms="2665" started-at="2022-08-03T12:11:16 IST" finished-at="2022-08-03T12:11:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully browser is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browser_setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tasks.TC_tasks_002_Test@ecd4b]" name="login" is-config="true" duration-ms="0" started-at="2022-08-03T12:11:19 IST" finished-at="2022-08-03T12:11:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tasks.TC_tasks_002_Test@ecd4b]" name="test" duration-ms="9307" started-at="2022-08-03T12:11:19 IST" finished-at="2022-08-03T12:11:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:tasks.TC_tasks_002_Test@ecd4b]" name="logout" is-config="true" duration-ms="0" started-at="2022-08-03T12:11:28 IST" finished-at="2022-08-03T12:11:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="browser_tear_down()[pri:0, instance:tasks.TC_tasks_002_Test@ecd4b]" name="browser_tear_down" is-config="true" duration-ms="1015" started-at="2022-08-03T12:11:28 IST" finished-at="2022-08-03T12:11:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_tear_down -->
+      </class> <!-- tasks.TC_tasks_002_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
